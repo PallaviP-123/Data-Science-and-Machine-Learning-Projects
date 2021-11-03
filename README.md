@@ -1,2 +1,0 @@
-Bengaluru House Price Prediction
-
